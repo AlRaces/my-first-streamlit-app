@@ -7,8 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1A8LCUsrgxfAFdn9D8u1rcydUrcrjPpt-
 """
 
-
-%%writefile app.py
 import streamlit as st
 
 st.title('GIẢI PHƯƠNG TRÌNH BẬC NHẤT')
