@@ -7,7 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1A8LCUsrgxfAFdn9D8u1rcydUrcrjPpt-
 """
 
-!pip install streamlit
 !pip install protobuf==3.20.0
 
 # Commented out IPython magic to ensure Python compatibility.
