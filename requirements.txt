@@ -1,2 +1,2 @@
-import scikit-learn
-import plotly
+scikit-learn
+plotly
