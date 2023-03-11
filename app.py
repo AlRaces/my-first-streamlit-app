@@ -15,9 +15,9 @@ b = st.number_input('Tham số b')
 if st.button('Giải'):
     if a == 0:
         if b == 0: st.success('Phương trình có vô số nghiệm')
-            else: st.success('Phương trình vô nghiệm')
-        else:
-            x = -b/a
-            result = "Phương trình có một nghiệm " + str(x)
-            st.success(result)
+        else: st.success('Phương trình vô nghiệm')
+    else:
+        x = -b/a
+        result = "Phương trình có một nghiệm " + str(x)
+        st.success(result)
 
